@@ -5,6 +5,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pass0n&layout=compact&langs_count=7&theme=dark"/>
 
-<div style="text-align: center;">
-// ------- WiP -------//
-</div>
+<text style="text-align: center;">// ------- WiP ------- //<text>
+
+
+
