@@ -3,7 +3,7 @@
 
 [### Hi there 👋
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pass0n&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pass0n&layout=compact&langs_count=7&theme=dark"/>
 
 <text align="center">// ------- WiP ------- //<text>
 
