@@ -40,7 +40,7 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pass0n&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pass0n&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
